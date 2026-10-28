@@ -1,0 +1,1 @@
+var n1 = widows.alert("Dgita o numero ")

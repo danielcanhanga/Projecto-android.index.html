@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+body{
+border-right: 400px;
+ background-image: linear-gradient(to right, green, rgb(76, 95, 97), rgb(132, 189, 134));
+ border: 200px;
+ color: aliceblue;
+ margin: 8%;
+}
+
+h1{
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                    border-radius: 20px;
+                    text-align: center;
+                    font-size: 150px;
+                    border: solid;
+                    border-color: rgb(127, 255, 153);
+                    background-image: linear-gradient(to right, rgb(53, 48, 48), rgb(72, 116, 77));
+}
+h2{
+                    
+                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    color: rgb(238, 229, 229);
+                    font-size: 100px;
+                    text-align: center;
+                    background-color: rgb(82, 133, 71)
+                    
+}
+p{
+                    text-transform: capitalize;
+                    color: white;
+                    font-size: 60px;
+                  text-align: justify;  
+                  text-transform: none;                  
+}
+h3{
+                    background-color: rgb(82, 133, 71);
+                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    font-size: 110px;
+                    text-align: center;                    
+}
+h4{
+                    font-size: 70px;
+                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: rgb(160, 194, 169);
+                    margin: 1cap;
+}
+h5{
+  color: rgb(169, 219, 202);
+  text-align: justify;
+  font-size: 80px;
+                       
+}
+h6{
+  table-layout: fixed;
+  font-size: 370%;
+  text-align: justify;
+  margin: 3%;
+}
+table {
+  text-align: justify;
+  border: solid;
+  font-size: 70px;
+  background-image: linear-gradient(to right, rgb(64, 87, 68));
+  margin: 10;
+}
+th{
+  color: rgb(248, 248, 248);
+
+}
+td{
+  color: white;
+}
+tr{
+  color: black;
+}
+i{
+  color: rgb(7, 12, 1);
+  font-size: 50px;
+}
+img{
+  background-image: linear-gradient(to right, rgb(165, 202, 172), rgb(26, 129, 86));
+  border: solid;
+  color: darkgreen;
+}
+
+
